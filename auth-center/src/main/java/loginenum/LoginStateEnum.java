@@ -1,4 +1,4 @@
-package Enum;
+package loginenum;
 
 public enum LoginStateEnum {
     STARTED,

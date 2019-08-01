@@ -1,4 +1,4 @@
-package Base;
+package base;
 
 import javax.persistence.Column;
 import javax.persistence.Temporal;
