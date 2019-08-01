@@ -15,7 +15,7 @@ public class BaseEntity {
     @Column(name = "last_update_date")
     private Date lastUpdateDate;
 
-    /** let hibernate manage optimistic locking. */
+    /** let hibernate manage optimistic locking. https://vladmihalcea.com/optimistic-locking-version-property-jpa-hibernate/ */
     @Version
     private Long version;
 
