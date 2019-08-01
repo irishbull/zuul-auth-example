@@ -66,4 +66,4 @@ You can change the token and the URL as need. To sum up, the following table rep
 | ----------------------------------- | -------------- | ------------- | -------------- |
 | `admin` token (role `USER` `ADMIN`) |            200 |           200 |            200 |
 | `shuaicj` token (role `USER`)       |            403 |           200 |            200 |
-| no token                            |            401 |           401 |            200 |
+| no token        .                    |            401 |           401 |            200 |
